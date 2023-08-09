@@ -1,0 +1,243 @@
+.notification {
+    display: block;
+    text-align: center;
+    background-color: black;
+    font-weight: 400;
+    padding: 10px;
+    margin: 0;
+    color: white;
+    
+   
+   
+}
+
+ body {
+    margin: 0;
+    background-color:#f9f2ea;
+} 
+
+.nav-container{
+position: sticky;
+top: 0;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 0.7rem 0;
+}
+
+.nav-container-1{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+} 
+
+.nav-container-2{
+    width: 30%;
+    display: flex;
+    justify-content:center;
+} 
+
+.align-items {
+    color: #93897a;
+    font-size: 20px;
+    font-family: "FuturaPT-Book";
+}
+
+.right-container-items {
+    padding: 0 7px;
+}
+
+.icon {
+    color: gray;
+    width: 24px;
+    height: 24px;
+    border: none;
+    padding-top: 2px;
+}
+
+.cart-icon {
+    color: gray;
+    font-size: 17px;
+    border: none;
+    padding-top: 2px;
+}
+.wholesale-containerpage{
+    display:flex;
+    margin-left:90px;
+        
+}
+.wholesale-firstsection{
+    width:50%;
+}
+.wholesale-secondsection{
+    width:50%;
+    display:flex;
+    justify-content: center;
+}
+.wholesale-content{
+    color: #27221d;
+    font-size: 50px;
+    line-height: 50px;
+    font-family:NYTMagSerifHeadlineWEB-Bold ; 
+    
+}
+.description-wholesalecontent{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-style: normal;
+    font-family: "FuturaPT-Book";
+   
+}
+.getintouch-btn{
+    border:1px solid black;
+    padding: 12px 28px;
+    margin-top: 40px;
+}
+.image{
+    width:80%;
+    height:500px;
+    float: left;
+}
+.content-secondsection{
+  
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 48px;
+    margin-left: 90px;
+    color:#3e402d;
+    font-family: NYTMagSerifHeadlineWEB-Bold;
+    
+   
+   
+}
+.last-text{
+    font-weight: 700;
+    font-size:16px;
+    line-height: 48px;
+    margin-left: 90px;
+    color:#a38354
+
+}
+
+.maincontent-1{
+    display:flex;
+}
+.align1{
+    margin-left:90px;
+    font-size: 20px;
+}
+.aligncontent{
+    margin-left:90px;
+    font-size: 20px;
+}
+.image-container{
+    margin-top: 40px;
+    display:flex;
+}
+.merchant-image1{
+    margin-left:30px;
+}
+.image-details{
+    
+    display: flex;
+    margin-top: 40px;
+    
+
+}
+.section-3{
+   
+   float:Left;
+   margin-top: 30px;
+}
+.button1{
+    margin-left:400px;
+    padding: 10px;
+    float:right;
+}
+.heading{
+    float:left;
+}
+ .contact-section{
+
+    display:flex;
+ }
+ .footer-section{
+
+    display:flex;
+    float: left;
+    background-color: #3e402d;
+    color:white;
+    width: 100%;
+    
+    
+ }
+.align-list{
+   font-size: 20px;
+   list-style-type: none;
+   
+}
+.align-list1{
+    font-size:16px;
+     list-style-type: none;
+     
+    
+     
+ }
+ .align-list3{
+    font-size: 16px;
+     list-style-type: none;
+     margin-left: 380px;
+     
+    
+     
+ }
+.footer-heading{
+    
+    margin-left: 90px;
+    font-size: 22px;
+    
+}
+.footer-heading1{
+    
+    margin-left:40px;
+    font-size: 13px;
+    
+    
+}
+.footer-heading2{
+   
+    margin-left:420px;
+    font-size: 13px;
+    
+}
+.icon-space{
+    margin-left: 90px;
+    margin-right: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.spacing{
+    margin-top: 10px;
+    font-size:18px;
+    color:white"
+}
+.space{
+    margin-left:5px;
+}
+.master-card{
+  float:left;
+}
+   
+   
+    
+   
+   
+
+
+
+
+
+
